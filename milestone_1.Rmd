@@ -1,0 +1,12 @@
+---
+title: "milestone one"
+author: "Alexander Sanchez"
+date: "2/19/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Since I'm an RA in Mahzarin Banaji's Implicit Social Cognition lab, I'm thinking of making my final project something related to Implicit Association Test data. One interesting thing would be to analyze if there have been any changes in implicit attitudes towards Asian Americans in light of the Covid 19 pandemic. I'll have a better idea of what kind of project I should do later on in the semester when I've collected more data on a study that I'll be running.
